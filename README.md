@@ -1,5 +1,9 @@
 # FaceRecognitionSecurity
 Protect your Computer against strangers ! If foreigners want to log in to your computer, ring your phone and lock the computer screen automatically.
+
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
+
 ## Features
 
 Face Recognition in Live Camera
